@@ -22,7 +22,6 @@ body {
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
-    padding: 200px 452px 280px 452px;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -198,7 +197,6 @@ body {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
-    padding: 94px 0 10px 215px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--primary-text-color);
@@ -207,7 +205,6 @@ body {
 .primary-description {
     font-size: 14px;
     line-height: 1.71;
-    padding: 10px 30px 94px 215px;
     letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }
@@ -216,7 +213,6 @@ body {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.16;
-    padding: 94px 624px 50px 624px;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
@@ -237,7 +233,6 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.18;
-    padding: 30px 99px 10px 99px;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
@@ -246,7 +241,6 @@ body {
 .team-member-position {
     font-size: 16px;
     line-height: 1.18;
-    padding: 10px 70px 30px 70px;
     letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }
@@ -344,8 +338,6 @@ body {
 }
 
 .portfolio-block-item {
-    width: 370px;
-    height: 404px;
     background: var(--background-color);
     border: 1px solid #eeeeee;
 }
